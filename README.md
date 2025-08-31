@@ -1,2 +1,2 @@
 # programacaoC
-Estudos iniciais com a Linguagem C
+Estudos iniciais com a Linguagem C!
